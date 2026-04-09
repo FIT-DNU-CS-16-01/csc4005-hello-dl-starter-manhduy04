@@ -66,9 +66,9 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - ảnh chụp màn hình terminal hoặc output thành công
 
 ## Sinh viên cần cập nhật README này
-- Họ tên:
-- MSSV:
-- Lớp:
+- Họ tên:nguyễn Mạnh Duy
+- MSSV:1671040006
+- Lớp:KHMT 16-01
 - Hệ điều hành:
 - Python version:
 - Torch version:
